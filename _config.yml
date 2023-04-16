@@ -2,7 +2,7 @@ title:              Chant Resources
 email:              
 description:        Chant scores that I made.
 author:             ineael
-baseurl:            "chant"
+baseurl:            "/chant"
 url:                "https://ineael.github.io"
 
 # Social Profiles
