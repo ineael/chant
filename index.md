@@ -6,6 +6,7 @@ background: '/img/bg-index.jpg'
 [Alleluias from the Graduale Simplex](/pdf/Alleluias-from-the-Graduale-Simplex.pdf)  
 [Christus Factus Est (Antiphonale Monasticum 2005)](/pdf/christus-factus-est.pdf)  
 [Flos Carmeli](/pdf/flos-carmeli.pdf)  
+[Priest's intonations for mass (Gloria, Creed, Dismissal](/pdf/intonations.pdf)  
 
 **English**  
 Passion  
