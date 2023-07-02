@@ -7,7 +7,7 @@ background: '/img/bg-index.jpg'
 [Christus Factus Est](/pdf/christus-factus-est.pdf)  
 [Flos Carmeli](/pdf/flos-carmeli.pdf)  
 [Hæc Dies](/pdf/haec-dies.pdf)  
-[Priest's intonations for mass (Gloria, Creed, Dismissal](/pdf/intonations.pdf)  
+[Priest's intonations for mass (Gloria, Creed, Dismissal)](/pdf/intonations.pdf)  
 
 **English**  
 Passion  
