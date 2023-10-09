@@ -23,3 +23,4 @@ Others
 [The Divine Praises](/pdf/the-divine-praises.pdf)  
 [Lauds and Vespers for the Dead](/pdf/office-for-the-dead.pdf)  
 [Tenebrae Responsories (adapted from Laudes Festivæ)](/pdf/tenebrae.pdf)  
+[Te Deum (simple tone)](/pdf/te-deum.pdf)  
