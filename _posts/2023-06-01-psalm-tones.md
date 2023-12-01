@@ -32,28 +32,22 @@ Let’s look at an example with a mode I psalm tone.
 First, try to identify the parts of the psalm tone.
 <img src="/chant/img/posts/psalmtone-2.png" alt="Mode 1 Psalm Ton" width="70%">
 
+### An example
 
 The Lord’s revelation to my Master: †  
-‘Sit on my right: *  
-your foes I will put beneath your feet.’
+‘**Sit** on **my** right: *  
+your foes I will put *beneath* **your** feet.’
 
-Next, we figure out what each line sounds like.  
-There are no markings for the intonation.  
-The syllables in italic indicate a change in the note from the reciting note.  
-Bolded syllables indicate where the accented note is sung.
+Next, we figure out what each line sounds like. There are no markings for the intonation. The syllables in italic indicate a change in the note from the reciting note. Bolded syllables indicate where the accented note is sung.
 
-First line: We start with the intonation on the words “The Lord’s”, then onto the reciting note. The flex note at the end of the first line is only applied to “ster”, which is the weak syllable of the word “Master”.
+**First line:** We start with the intonation on the words “The Lord’s”, then onto the reciting note. The flex note at the end of the first line is only applied to “ster”, which is the weak syllable of the word “Master”.
 
-Second line: The * at the end tells us this line ends in the mediation. The first word “sit” is in bold, this means that we go straight into the mediation and there are no words on the reciting note here.
+**Second line:** The * at the end tells us this line ends in the mediation. The first word “sit” is in bold, this means that we go straight into the mediation and there are no words on the reciting note here.
 
-Third line: The last line starts off on the reciting note and the termination begins on “beneath”.
+**Third line:** The last line starts off on the reciting note and the termination begins on “beneath”.
 
-This is what it looks like fully notated:  
-<img src="/chant/img/posts/psalmtone-2.png" width="70%">
-
-  The Lord’s re-ve-la-tion to my Ma-ster: †   ‘Sit   on   my right: *
-
-    your foes  I  will put be- neath your feet.’
+Put it all together and this is what it looks like fully notated:  
+<img src="/chant/img/posts/psalmtone-3.png" width="70%">
  
 ### Chanting in practice
 Traditionally, the psalms are chanted between two alternating choirs. The psalm starts with the intonation sung by the Precentor (Cantor) through to the mediation at the *. Then the rest of the first choir joins in until the end. The second verse is then sung entirely by the second choir. The two choirs alternate between verses for the rest of the psalm.  
