@@ -11,12 +11,7 @@ A psalm tone is a melodic formula used for chanting psalms and canticles. It is 
 
 ### Parts of a psalm tone
 
-![Parts of a psalm tone](/chant/img/posts/psalmtone-1.png | width= 100)
-
-<img src="/chant/img/posts/psalmtone-1.png" alt="Parts of a psalm tone" width="50%">
-
-		                                           Reciting note
-                      Intonation      Flex †             Mediation *             Termination
+<img src="/chant/img/posts/psalmtone-1.png" alt="Parts of a psalm tone" width="70%">
 
 **Reciting note:** The note on which most of the text is recited on. Also known as the dominant or tenor.
 
@@ -35,7 +30,8 @@ Normally only the texts are provided with markings on them (e.g. italics and bol
 
 Let’s look at an example with a mode I psalm tone.
 First, try to identify the parts of the psalm tone.
-![Mode 1 Psalm Tone](/chant/img/posts/psalmtone-2.png)
+<img src="/chant/img/posts/psalmtone-2.png" alt="Mode 1 Psalm Ton" width="70%">
+
 
 The Lord’s revelation to my Master: †  
 ‘Sit on my right: *  
@@ -52,8 +48,9 @@ Second line: The * at the end tells us this line ends in the mediation. The firs
 
 Third line: The last line starts off on the reciting note and the termination begins on “beneath”.
 
-This is what it looks like fully notated:
-![](/chant/img/posts/psalmtone-2.png)
+This is what it looks like fully notated:  
+<img src="/chant/img/posts/psalmtone-2.png" width="70%">
+
   The Lord’s re-ve-la-tion to my Ma-ster: †   ‘Sit   on   my right: *
 
     your foes  I  will put be- neath your feet.’
