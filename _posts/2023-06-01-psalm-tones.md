@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "What is a psalm tone?"
-subtitle: "Problems look mighty small from 150 miles up"
+subtitle: "Chanting psalms to tones"
 date: 2023-06-01 10:45:13 +0800
-background: '/img/posts/06.jpg'
+background: 'https://i0.wp.com/archive.ccwatershed.org/media/photologue/photos/958_Gregorian_Manuscript.png?ssl=1'
 ---
 
 ### What is a psalm tone?
@@ -26,13 +26,15 @@ A psalm tone is a melodic formula used for chanting psalms and canticles. It is 
 **Accent mark:** Marks the accented syllables of the words in the mediation and termination.
 
 **Hollow note (or punctum cavum):** This is denoted by a white square, and is for any extra syllables; they are sung on this note.
-Normally only the texts are provided with markings on them (e.g. italics and bolded syllables), instead of having the text notated with the full score. The markings help indicate when there is a change in the notes. This is also known as “pointing” the text. Often, editors will have different ways of pointing in order to better fit the word accents of the text. They may also use different symbols for the markings. Once we learn how to read one way of pointing, it will not be too difficult to figure out other variations. 
+Normally only the texts are provided with markings on them (e.g. italics and bolded syllables), instead of having the text notated with the full score. 
+
+The markings help indicate when there is a change in the notes. This is also known as “pointing” the text. Often, editors will have different ways of pointing in order to better fit the word accents of the text. They may also use different symbols for the markings. Once we learn how to read one way of pointing, it will not be too difficult to figure out other variations. 
+
+### An example
 
 Let’s look at an example with a mode I psalm tone.
 First, try to identify the parts of the psalm tone.
 <img src="/chant/img/posts/psalmtone-2.png" alt="Mode 1 Psalm Ton" width="70%">
-
-### An example
 
 The Lord’s revelation to my Master: †  
 ‘**Sit** on **my** right: *  
@@ -51,5 +53,7 @@ Put it all together and this is what it looks like fully notated:
  
 ### Chanting in practice
 Traditionally, the psalms are chanted between two alternating choirs. The psalm starts with the intonation sung by the Precentor (Cantor) through to the mediation at the *. Then the rest of the first choir joins in until the end. The second verse is then sung entirely by the second choir. The two choirs alternate between verses for the rest of the psalm.  
+
 At the flex, a quick breath may be taken if needed. At the *, a full breath and distinct pause is taken before continuing. At the end of each verse, the alternating choir starts the next verse smoothly without a pause.  
+
 The psalms should be sung lightly, smoothly, gracefully and never too slowly. The words are to be read distinctly and naturally, without rushing. Accents in the words should take precedence over suggested accents in the music.
