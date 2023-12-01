@@ -1,6 +1,6 @@
 ---
 layout: home 
-background: '/img/bg-index.jpg' 
+background: '/img/manuscript.jpeg' 
 ---
 **Latin**  
 [Alleluias from the Graduale Simplex](/pdf/Alleluias-from-the-Graduale-Simplex.pdf)  
@@ -11,9 +11,9 @@ background: '/img/bg-index.jpg'
 
 **English**  
 Passion  
-[Passion According to John (Jerusalem Bible/UK Lectionary)](/pdf/passion-john.pdf)  
-[Passion According to Mark (Jerusalem Bible/UK Lectionary)](/pdf/passion-mark.pdf)  
-[Passion According to Mark (Shorter Form) (Jerusalem Bible/UK Lectionary)](/pdf/passion-mark-shorter.pdf)  
+[Passion According to John (Jerusalem Bible)](/pdf/passion-john.pdf)  
+[Passion According to Mark (Jerusalem Bible)](/pdf/passion-mark.pdf)  
+[Passion According to Mark (Shorter Form) (Jerusalem Bible)](/pdf/passion-mark-shorter.pdf)  
 
 Sequences  
 [Christians to the Paschal Victim (Victimae Paschali Laudes)](/pdf/christians-to-the-paschal-victim.pdf)  
