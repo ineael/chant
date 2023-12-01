@@ -11,7 +11,7 @@ A psalm tone is a melodic formula used for chanting psalms and canticles. It is 
 
 ### Parts of a psalm tone
 
-![Parts of a psalm tone](/chant/img/posts/psalmtone-1.png | width="50%")
+![Parts of a psalm tone](/chant/img/posts/psalmtone-1.png | width= 100)
 
 		                                           Reciting note
                       Intonation      Flex †             Mediation *             Termination
