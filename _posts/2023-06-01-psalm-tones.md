@@ -3,7 +3,7 @@ layout: post
 title: "What is a psalm tone?"
 subtitle: "Chanting psalms to tones"
 date: 2023-06-01 10:45:13 +0800
-background: '/img/manuscript.jpg'
+background: '/img/manuscript.jpeg'
 ---
 
 ### What is a psalm tone?
