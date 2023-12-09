@@ -8,16 +8,15 @@ background: '/img/manuscript.jpeg'
 This is a list of options of chant propers for a wedding mass in the Ordinary Form.
 
 ### Introit
-#### Deus in loco sancto suo 
-https://youtu.be/x7Nw2RUzoUg?si=ZVaX_a1x7x8C6t4c
+**Deus in loco sancto suo**  
+(https://youtu.be/x7Nw2RUzoUg?si=ZVaX_a1x7x8C6t4c)
 
 Deus in loco sancto suo: Deus qui inhabitáre facit unánimes in domo: ipse
 dabit virtútem, et fortitúdinem plebi suæ. V. Exsúrgat Deus, et dissipéntur inimíci ejus: et fúgiant, qui odérunt eum, a fácie ejus.  
 
 *God is in his holy dwelling place; the God who causes us to dwell together, one at heart, in his house; he himself will give power and strength to his people. V. Let God arise, and let his enemies be scattered; and let those who hate him flee before his face.*  
 
-#### Dómine, refúgium factus es nobis 
-https://app.neumz.com/listen/missa-domine-refugium-5/08-03-2022  
+**Dómine, refúgium factus es nobis** - [Recording](https://app.neumz.com/listen/missa-domine-refugium-5/08-03-2022)  
 Dómine, refúgium factus es nobis a generatióne et progénie: a saéculo, et in saéculum tu es. V. Priúsquam montes fíerent aut formarétur terra et orbis: a saéculo, et usque in saéculum tu es Deus.  
 
 *Lord, You have been our refuge through
