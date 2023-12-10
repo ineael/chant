@@ -8,7 +8,7 @@ background: '/img/manuscript.jpeg'
 This is a list of options of chant propers for a wedding mass in the Ordinary Form. The chants listed are as found in *Ordo Cantus Missae* and the *Liber Usualis*.
 
 ### Introit
- - **Deus Israel** - [Video link](https://youtu.be/IS-KY5bzu44?si=8xVjrZdHzKY9hVYm)  
+ - **Deus Israel conjúngat vos** - [Video link](https://youtu.be/IS-KY5bzu44?si=8xVjrZdHzKY9hVYm)  
 Deus Israel conjúngat vos, et ípse sit vobíscum qui misértus est duóbus únicis: et nunc, Dómine, fac éos plénius benedícere te. V. Beáti ómnes qui timent Dóminum: qui ámbulant in víis éjus.  
 
     *May the God of Israel join you together; and may he be with you, who took pity upon two only children: and now, O Lord, make them bless thee more fully. V. Blessed are they that fear the Lord; that walk in his ways.*
