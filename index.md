@@ -17,7 +17,7 @@ Passion
 
 Sequences  
 [Christians to the Paschal Victim (Victimae Paschali Laudes)](/pdf/christians-to-the-paschal-victim.pdf)  
-[Laud O Sion Thy Salvation (Lauda Sion Salvatorem)](/pdf/laud-o-sion.pdf)  
+[Laud O Zion Thy Salvation (Lauda Sion Salvatorem)](/pdf/laud-o-zion.pdf)  
 
 Others  
 [The Divine Praises](/pdf/the-divine-praises.pdf)  
